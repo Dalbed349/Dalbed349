@@ -1,5 +1,6 @@
  Hi, I’m Dalbed349
-- Recent graduate - Parsons Data Visualization Master of Science  
+- Binghamton University Psychology Bachelor of Arts 
+- Parsons Data Visualization Master of Science  
 - I’m currently working on projects using D3.js, P5.js, and Vue.js 
 - 📫 	albed349@newschool.edu
 
